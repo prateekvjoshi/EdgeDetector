@@ -6,4 +6,4 @@ This code implements OpenCV based Canny Edge Detector. Sample input image is inc
 	$ make
 	$ ./main inputImage.jpg
 
-The output will be displayed on window along with a trackbar. Move the trackbar to adjust the threshold and get different levels of sensitivity for edge detection.
+The output will be displayed on a window along with a trackbar. Move the trackbar to adjust the threshold and get different levels of sensitivity for edge detection.
